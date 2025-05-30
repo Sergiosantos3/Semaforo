@@ -28,3 +28,7 @@ A mudança de cores é gerenciada por um `Timer`, que define intervalos de tempo
 
 - .NET Framework ou .NET Core (dependendo da versão do C# utilizada).
 - Ambiente de desenvolvimento (Visual Studio, VS Code com extensões C#).
+
+## Imagem do software
+![Print do Semáfprp]
+(print semaforo.PNG)
