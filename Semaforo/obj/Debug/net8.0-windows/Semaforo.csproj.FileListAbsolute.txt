@@ -16,3 +16,4 @@ C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\ref\Semaforo.dll
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.FormConfiguracoes.resources
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.Properties.Resources.resources
+C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.sourcelink.json
