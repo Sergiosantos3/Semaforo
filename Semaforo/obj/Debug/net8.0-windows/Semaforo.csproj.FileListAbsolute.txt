@@ -3,7 +3,6 @@ C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\bin\Debug\net8.0-windows
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\bin\Debug\net8.0-windows\Semaforo.runtimeconfig.json
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\bin\Debug\net8.0-windows\Semaforo.dll
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\bin\Debug\net8.0-windows\Semaforo.pdb
-C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.Form1.resources
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.csproj.GenerateResource.cache
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.FormConfiguracoes.resources
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.Properties.Resources.resources
 C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.sourcelink.json
+C:\Users\sergio.omsantos\source\repos\Semaforo\Semaforo\obj\Debug\net8.0-windows\Semaforo.Semáforo.resources

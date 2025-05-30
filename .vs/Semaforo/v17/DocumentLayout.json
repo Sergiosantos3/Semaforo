@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|c:\\users\\sergio.omsantos\\source\\repos\\semaforo\\semaforo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|solutionrelative:semaforo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\semaforo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|solutionrelative:semaforo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|c:\\users\\sergio.omsantos\\source\\repos\\semaforo\\semaforo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|solutionrelative:semaforo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC810144-6198-40AD-B9D7-83899DA6BB4C}|Semaforo\\Semaforo.csproj|C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\semaforo\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -37,25 +37,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\Semaforo\\Form1.cs",
               "RelativeDocumentMoniker": "Semaforo\\Form1.cs",
-              "ToolTip": "C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\Semaforo\\Form1.cs [Design]",
-              "RelativeToolTip": "Semaforo\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\Semaforo\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Semaforo\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T16:50:17.479Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\Semaforo\\Form1.cs",
               "RelativeDocumentMoniker": "Semaforo\\Form1.cs",
               "ToolTip": "C:\\Users\\sergio.omsantos\\source\\repos\\Semaforo\\Semaforo\\Form1.cs",
               "RelativeToolTip": "Semaforo\\Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T16:58:21.588Z",
               "EditorCaption": ""

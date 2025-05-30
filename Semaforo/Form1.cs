@@ -2,12 +2,12 @@ using Semaforo.Properties;
 
 namespace Semaforo
 {
-    public partial class Form1 : Form
+    public partial class Semáforo : Form
     {
         private int estadoAtual = 1;
         private bool semafaroAtivo;
 
-        public Form1()
+        public Semáforo()
         {
             InitializeComponent();
         }

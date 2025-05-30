@@ -1,6 +1,6 @@
 ﻿namespace Semaforo
 {
-    partial class Form1
+    partial class Semáforo
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Semáforo));
             openFileDialog1 = new OpenFileDialog();
             pibSemaforo = new PictureBox();
             btnIniciar = new Button();
@@ -76,7 +77,7 @@
             timer1.Interval = 1000;
             timer1.Tick += timer1_Tick;
             // 
-            // Form1
+            // Semáforo
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -84,9 +85,10 @@
             Controls.Add(btnParar);
             Controls.Add(btnIniciar);
             Controls.Add(pibSemaforo);
-            Name = "Form1";
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Name = "Semáforo";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "Semáforo";
             ((System.ComponentModel.ISupportInitialize)pibSemaforo).EndInit();
             ResumeLayout(false);
         }
